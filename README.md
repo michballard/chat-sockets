@@ -1,4 +1,7 @@
-chat-sockets
+| [Makers Academy](http://www.makersacademy.com) | Week 7 | 
+| ------ | ------ | 
+
+Chat Sockets
 ============
 
 Creating a simple chat app using sockets
